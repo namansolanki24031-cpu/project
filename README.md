@@ -1,4 +1,4 @@
-📧📄 Text Classification using Naive Bayes
+# Text Classification using Naive Bayes
 
 This project implements two text classification models from scratch using Naive Bayes:
 
