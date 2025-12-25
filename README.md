@@ -2,9 +2,11 @@
 
 This project implements two text classification models from scratch using Naive Bayes:
 
-## SMS Spam Classifier – classifies messages as spam or ham using a Binary (Bernoulli) Naive Bayes model.
+## SMS Spam Classifier –
+classifies messages as spam or ham using a Binary (Bernoulli) Naive Bayes model.
 
-## BBC News Classifier – classifies news articles into business, entertainment, politics, sport, and technology using Multinomial Naive Bayes.
+## BBC News Classifier – 
+classifies news articles into business, entertainment, politics, sport, and technology using Multinomial Naive Bayes.
 
 ## Key Features
 
