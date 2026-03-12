@@ -12,7 +12,7 @@ classifies news articles into business, entertainment, politics, sport, and tech
 
 Text preprocessing: punctuation removal, lowercasing, tokenization
 
-spliting the data in trainingSet and testSet for evaluation
+Spliting the data in trainingSet and testSet for evaluation
 
 Vocabulary construction and probability estimation
 
